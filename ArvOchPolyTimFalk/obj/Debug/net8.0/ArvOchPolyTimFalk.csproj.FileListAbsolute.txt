@@ -1,0 +1,14 @@
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\bin\Debug\net8.0\ArvOchPolyTimFalk.exe
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\bin\Debug\net8.0\ArvOchPolyTimFalk.deps.json
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\bin\Debug\net8.0\ArvOchPolyTimFalk.runtimeconfig.json
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\bin\Debug\net8.0\ArvOchPolyTimFalk.dll
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\bin\Debug\net8.0\ArvOchPolyTimFalk.pdb
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\ArvOchPolyTimFalk.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\ArvOchPolyTimFalk.AssemblyInfoInputs.cache
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\ArvOchPolyTimFalk.AssemblyInfo.cs
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\ArvOchPolyTimFalk.csproj.CoreCompileInputs.cache
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\ArvOchPolyTimFalk.dll
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\refint\ArvOchPolyTimFalk.dll
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\ArvOchPolyTimFalk.pdb
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\ArvOchPolyTimFalk.genruntimeconfig.cache
+c:\Users\tiiim\OneDrive\Skrivbord\Mapp\Kurser\Fördjupande Programmering\ArvOchPolyTimFalk\obj\Debug\net8.0\ref\ArvOchPolyTimFalk.dll
